@@ -1,6 +1,6 @@
 # Introdução
 
-##🌴🇧🇷➡️ 🗽EUA
+## 🌴🇧🇷 ➡️ 🗽EUA
 
 Este repositório contém informações e dicas do processo de visto para brasileiros que desejam tirar o seu visto EB2-NIW, um passo a passo com os procedimentos associados e dicas não relacionadas mas que podem ser úteis.
 
