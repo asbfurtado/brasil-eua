@@ -8,7 +8,7 @@ Este texto foi originalmente escrito por [Anderson Furtado](https://github.com/a
 
 ### Visão Geral
 
-Em linhas gerais, o **primeiro passo é saber se você atende os requisitos para um BP (Business Plain) ou PP (Professional Plain)**.
+Em linhas gerais, o **primeiro passo é saber se você atende os requisitos para um BP (Business Plan) ou PP (Professional Plan)**.
 
 Após Identificar qual o seu plano de atuação (BP ou PP), você precisará reunir uma série de documentos, e iniciar um processo para obter o seu visto EB2-NIW, que tipicamente leva alguns meses para ser concluído (Atualmente, Dezembro de 2025, está levando 2 anos).&#x20;
 
