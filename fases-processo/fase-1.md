@@ -25,3 +25,5 @@
 * 💵 Taxa I-140: USD 700,00;
 * ⚡ Premium Processing: USD 2.805,00 (opcional);
 * 📄 Traduções + cartas de recomendação: USD 400,00 –1,200,00;
+
+Agora vamos preparar a [fase 2](https://github.com/asbfurtado/brasil-eua/blob/main/fases-processo/fase-2.md)
