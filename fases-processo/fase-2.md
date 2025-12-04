@@ -13,3 +13,5 @@
  
 💰 Custos médios:
 * 📑 Preparação de resposta RFE: USD 300–800
+
+Agora vamos preparar a [fase 2](https://github.com/asbfurtado/brasil-eua/blob/main/fases-processo/fase-3.md)
