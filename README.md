@@ -34,5 +34,5 @@ A sua proposta pode ter relevância nacional por apresentar avanços para o seu 
 Assim, o Professional Plan ou Business Plan já podem trazer, além do planejamento em si, pontos argumentativos que mostrem que tal planejamento tem mérito substancial e importância nacional. 
 
 ### [Como é um Business Plan do EB2 NIW](https://github.com/asbfurtado/brasil-eua/blob/main/Business-Plan.md)
-### [Como é um Professional Plan do EB2 NIW](https://github.com/asbfurtado/brasil-eua/blob/main/Professional-Plan.md)
+### [Como é um Professional Plan do EB2 NIW](https://github.com/asbfurtado/brasil-eua/blob/main/Professional_Plan.md)
 ### [Dicas](https://github.com/asbfurtado/brasil-eua/blob/main/Dicas.md)
