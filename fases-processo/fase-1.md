@@ -3,8 +3,8 @@
  
 ***📑 Formulários:***
 * 📝 [I-140](https://www.uscis.gov/i-140);
-* 📬 G-1145;
-* 💳 G-1450 (somente se pagar com cartão);
+* 📬 [G-1145](https://www.uscis.gov/g-1145);
+* 💳 [G-1450](https://www.uscis.gov/g-1450) (somente se pagar com cartão);
  
 ***📂 Documentos:***
 * 📑 Cover Letter;
