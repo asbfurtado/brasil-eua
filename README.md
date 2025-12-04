@@ -35,4 +35,4 @@ Assim, o Professional Plan ou Business Plan já podem trazer, além do planejame
 
 ### [Como é um Business Plan do EB2 NIW](https://github.com/asbfurtado/brasil-eua/blob/main/Business-Plan.md)
 ### [Como é um Professional Plan do EB2 NIW](https://github.com/asbfurtado/brasil-eua/blob/main/Professional-Plan.md)
-### [Dicas](https://github.com/asbfurtado/brasil-eua/blob/main/dicas.md)
+### [Dicas](https://github.com/asbfurtado/brasil-eua/blob/main/Dicas.md)
