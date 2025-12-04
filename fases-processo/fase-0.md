@@ -15,3 +15,5 @@
 
 * 📝 Traduções juramentadas: USD 15–30 por página;
 * ⏳ Coleta de documentos: sem custo direto, apenas tempo;
+
+Agora vamos preparar a [fase 1](https://github.com/asbfurtado/brasil-eua/blob/main/fases-processo/fase-1.md)
