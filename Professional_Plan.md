@@ -7,6 +7,6 @@ O profissional pode usar como argumento para o primeiro prong ***a contribuiçã
 
 Outro argumento bastante utilizado no Professional Plan é o de que existe um ***déficit de profissionais qualificados naquela área de trabalho nos Estados Unidos (shortage).*** Assim, esse estrangeiro poderia ocupar vagas que estão em aberto pela falta dessa mão-de-obra.
 
-Mas atenção! Esse argumento, do déficit de profissionais, de forma isolada, não tem respaldo para a ***[aprovação do visto de interesse nacional]()***.
+Mas atenção! Esse argumento, do déficit de profissionais, de forma isolada, não tem respaldo para a ***[aprovação do visto de interesse nacional](https://github.com/asbfurtado/brasil-eua/blob/main/dicas.md)***.
 
 O profissional apresenta suas qualificações para ***atender aos critérios do segundo e do terceiro prong.***
