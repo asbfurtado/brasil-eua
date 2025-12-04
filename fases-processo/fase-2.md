@@ -1,6 +1,6 @@
 # 🔹 FASE 2 – PÓS-ENVIO DO I-140
 
-## 📬 Após envio:
+### 📬 Após envio:
 * 📄 Recebe o I-797 (Receipt Notice)
   * O Formulário I-797, Notificação de Ação (Notice of Action), é um documento oficial emitido pelo U.S. Citizenship and Immigration Services (USCIS) que comunica atualizações ou decisões sobre um pedido ou petição de imigração;
  
