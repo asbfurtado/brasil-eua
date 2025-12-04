@@ -1,7 +1,7 @@
 # 🔹 FASE 1 – ENVIO DE DOCUMENTOS (PACOTE NIW)
 ### 📤 Nesta fase você deve enviar os documentos abaixo e então iniciará o processo com a USCIS.
  
-***📑 Formulários:***
+***📑 Formulários: (Deixe para preencher os formulários no final de todo processo)***
 * 📝 [I-140](https://www.uscis.gov/i-140);
 * 📬 [G-1145](https://www.uscis.gov/g-1145);
 * 💳 [G-1450](https://www.uscis.gov/g-1450) (somente se pagar com cartão);
