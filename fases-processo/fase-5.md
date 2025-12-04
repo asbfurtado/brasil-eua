@@ -8,3 +8,5 @@
 ### 💰 Custos médios:
 * 💵 Taxa USCIS (Immigrant Fee): USD 220
 * ✈️ Passagens aéreas: USD 600–1,200 por pessoa
+
+  Agora vamos preparar a [Conclusão](https://github.com/asbfurtado/brasil-eua/blob/main/fases-processo/conclusao.md)
