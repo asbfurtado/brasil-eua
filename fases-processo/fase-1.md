@@ -2,7 +2,7 @@
 ### 📤 Nesta fase você deve enviar os documentos abaixo e então iniciará o processo com a USCIS.
  
 ***📑 Formulários:***
-* 📝 I-140;
+* 📝 (I-140)[https://www.uscis.gov/i-140];
 * 📬 G-1145;
 * 💳 G-1450 (somente se pagar com cartão);
  
