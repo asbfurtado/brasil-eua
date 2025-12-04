@@ -32,3 +32,5 @@ Importante entender que, por interesse nacional, a imigração não espera, nece
 A sua proposta pode ter relevância nacional por apresentar avanços para o seu campo de atuação ou, então, trazer benefícios econômicos para a região (geração de emprego, impacto social, novas tecnologias, entre outros). 
 
 Assim, o Professional Plan ou Business Plan já podem trazer, além do planejamento em si, pontos argumentativos que mostrem que tal planejamento tem mérito substancial e importância nacional. 
+
+[Como é um Business Plan do EB2 NIW](https://github.com/asbfurtado/brasil-eua/blob/main/Business-Plan.md)
